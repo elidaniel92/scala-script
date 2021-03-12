@@ -1,0 +1,13 @@
+Arguments.sh
+Environment_Variables.sh
+file.txt
+folder
+IO_Redirections_Piping.sh
+IO_Redirections_Piping.sh.jar
+llss.sh
+other_scripts
+README.txt
+Run_Another_Script.sh
+SimulateABashScriptFile.sh
+STDOUT_STDERR_Status.sh
+tete
