@@ -1,3 +1,3 @@
 # Scala-Script
 
-Scala as Script language samples for Linux (Bash)
+Scala as Script Language Samples for Linux (Bash)
